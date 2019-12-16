@@ -1,0 +1,46 @@
+Year,Species,Mean_EUAU,SE_EUAU,Mean_AFAU,SE_AFAU,Mean_EFAU,SE_EFAU
+1996,P. taeda,1.04,0.06,NA,NA,NA,NA
+1997,P. taeda,1.08,0.06,NA,NA,NA,NA
+1998,P. taeda,1.10,0.06,1.03,NA,1.04,NA
+1999,P. taeda,1.13,0.06,1.06,NA,1.09,NA
+2000,P. taeda,1.15,0.07,1.06,NA,1.14,NA
+2001,P. taeda,1.18,0.07,1.08,NA,1.15,NA
+2002,P. taeda,1.18,0.07,1.09,NA,1.22,NA
+2003,P. taeda,1.22,0.06,1.08,NA,1.32,NA
+2004,P. taeda,1.22,0.07,1.02,NA,1.25,NA
+2005,P. taeda,1.27,0.09,1.08,0.02,1.31,0.06
+2006,P. taeda,1.29,0.08,1.08,0.04,1.33,0.04
+2007,P. taeda,1.28,0.08,1.09,0.04,1.34,0.05
+2008,P. taeda,1.29,0.08,1.10,0.04,1.36,0.03
+2009,P. taeda,1.30,0.07,1.09,0.05,1.37,0.03
+2010,P. taeda,1.31,0.06,1.08,0.07,1.34,0.04
+1996,Broadleaved species,1.27,0.14,NA,NA,NA,NA
+1997,Broadleaved species,1.28,0.15,NA,NA,NA,NA
+1998,Broadleaved species,1.26,0.15,0.65,NA,0.71,NA
+1999,Broadleaved species,1.24,0.15,0.64,NA,0.71,NA
+2000,Broadleaved species,1.23,0.16,0.63,NA,0.68,NA
+2001,Broadleaved species,1.19,0.15,0.65,NA,0.70,NA
+2002,Broadleaved species,1.19,0.14,0.63,NA,0.69,NA
+2003,Broadleaved species,1.20,0.15,0.60,NA,0.51,NA
+2004,Broadleaved species,1.16,0.14,0.60,NA,0.41,NA
+2005,Broadleaved species,1.16,0.16,0.81,0.12,1.07,0.27
+2006,Broadleaved species,1.18,0.17,0.87,0.13,1.11,0.28
+2007,Broadleaved species,1.19,0.16,0.86,0.13,1.12,0.29
+2008,Broadleaved species,1.23,0.16,0.89,0.13,1.15,0.31
+2009,Broadleaved species,1.25,0.17,0.95,0.17,1.21,0.31
+2010,Broadleaved species,1.27,0.17,0.94,0.16,1.24,0.33
+1996,Stand,1.06,0.06,NA,NA,NA,NA
+1997,Stand,1.09,0.06,NA,NA,NA,NA
+1998,Stand,1.12,0.06,0.98,NA,1.00,NA
+1999,Stand,1.14,0.06,1.01,NA,1.04,NA
+2000,Stand,1.16,0.07,1.00,NA,1.08,NA
+2001,Stand,1.18,0.07,1.02,NA,1.09,NA
+2002,Stand,1.19,0.07,1.03,NA,1.14,NA
+2003,Stand,1.22,0.06,1.00,NA,1.20,NA
+2004,Stand,1.21,0.07,0.96,NA,1.13,NA
+2005,Stand,1.26,0.09,1.05,0.03,1.28,0.07
+2006,Stand,1.28,0.08,1.06,0.03,1.31,0.05
+2007,Stand,1.28,0.07,1.06,0.03,1.32,0.06
+2008,Stand,1.29,0.07,1.08,0.04,1.34,0.05
+2009,Stand,1.29,0.07,1.07,0.05,1.35,0.05
+2010,Stand,1.31,0.06,1.06,0.06,1.33,0.06
